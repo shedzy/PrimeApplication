@@ -1,0 +1,74 @@
+body {
+	background-color: #F7F7F7;
+	font-family: verdana;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #444444;
+}
+
+h4 {
+	color: #666666;
+}
+
+h5 {
+	color: #888888;
+}
+
+h3, h4, h5 {
+	font-variant: small-caps;
+	margin: 2px;
+}
+
+li{
+	list-style-type: square;
+	padding-bottom: 7px;
+	font-style: italic;
+	font-weight: normal;
+	margin-left: 40px;
+}
+
+.dates {
+	padding-left: 20px;
+	font-style: italic;
+}
+
+.position {
+	padding-left: 30px;
+	font-style: italic;
+}
+
+.description {
+	padding-left: 30px;
+	font-style:bold;
+	width: 90%;
+}
+
+.employer {
+	border-radius: 10px;
+	background-color: #00007F;
+	color: #F7F7F7;
+}
+
+.client {
+	color: #00007F;
+	padding-left: 30px;
+}
+
+.identification {
+	color: #00007F;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 20px;
+}
+
+.education {
+	color: #00007F;
+	text-transform: uppercase;
+}
